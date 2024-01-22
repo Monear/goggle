@@ -1,0 +1,8 @@
+! name: SpecificSitesBoost
+! description: Boost results from specific sites
+! public: false
+! author: Your Name
+
+|https://www.unitedrentals.com^$boost=10
+|https://www.sunbeltrentals.com^$boost=10
+|https://www.hercrentals.com/ca.html^$boost=10
